@@ -1,5 +1,5 @@
 require('ipso').inject (Vertex, Resource) -> 
 
-    console.log Resource() 
+    Resource process.cwd() + '/build'
 
-    Vertex.create.www routes: path: {}
+    # Vertex.create.www routes: path: {}
