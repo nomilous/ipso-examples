@@ -7,6 +7,7 @@ ipso-examples
 # sudo npm install coffee-script -g
 
 npm install
+component install && component build
 
 #
 # curretly under development
@@ -36,5 +37,11 @@ Developing components inline, git-seed repo tree.
 # git seed clone 
 
 git seed pull
+
+#
+# client bit will need occasional refresh
+#
+
+component install -f && component build
 
 ```
