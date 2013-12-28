@@ -7,7 +7,19 @@ ipso-examples
 # sudo npm install coffee-script -g
 
 npm install
-component install nomilous/vertex@develop -f
+
+#
+# curretly under development
+# --------------------------
+# 
+# component install nomilous/vertex@develop -f
+# component install nomilous/vertex-resource@develop -f
+# 
+# #
+# # or use git-seed (see "Dev" below)
+# # 
+#
+
 coffee example.coffee
 
 

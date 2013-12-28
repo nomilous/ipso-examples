@@ -11,11 +11,19 @@
     },
     {
       "root": false,
+      "workDir": "./components/nomilous-vertex",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/vertex.git",
+      "HEAD": "refs/heads/develop",
+      "version": "b9a7b271eeaeffd2149b764473614d31e767789b"
+    },
+    {
+      "root": false,
       "workDir": "./components/nomilous-vertex-resource",
       "packageManager": "npm",
       "remote.origin.url": "git@github.com:nomilous/vertex-resource.git",
-      "HEAD": "refs/heads/master",
-      "version": "b3739452d3d1ee96267f9c7301afe0eb751c20f7"
+      "HEAD": "refs/heads/develop",
+      "version": "ad62e9c5a6f37a86dce3a60b99f3b85d29226123"
     }
   ]
 }
