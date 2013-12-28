@@ -12,3 +12,17 @@ coffee example.coffee
 
 
 ```
+
+
+Dev
+---
+
+Developing components inline, git-seed repo tree.
+
+```
+# sudo npm install git-seed -g
+# git seed clone 
+
+git seed pull
+
+```

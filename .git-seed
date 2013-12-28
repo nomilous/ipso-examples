@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "repos": [
+    {
+      "root": true,
+      "workDir": ".",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/ipso-examples.git",
+      "HEAD": "refs/heads/master",
+      "version": "ROOT_REPO_REF"
+    },
+    {
+      "root": false,
+      "workDir": "./components/nomilous-vertex-resource",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/vertex-resource.git",
+      "HEAD": "refs/heads/master",
+      "version": "b3739452d3d1ee96267f9c7301afe0eb751c20f7"
+    }
+  ]
+}
