@@ -15,6 +15,7 @@ component install && component build
 # 
 # component install nomilous/vertex@develop -f
 # component install nomilous/vertex-resource@develop -f
+# component install nomilous/vertex-main@develop -f
 # 
 # #
 # # or use git-seed (see "Dev" below)
