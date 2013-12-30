@@ -7,7 +7,7 @@ require('ipso').inject (facto, Vertex, Resource, Main) ->
 
         routes: 
 
-            resources: build
+            build: build
             main: main
 
             #
